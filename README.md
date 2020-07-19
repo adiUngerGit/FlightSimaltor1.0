@@ -1,7 +1,6 @@
 
 # flySimulator1.0
-link to git hub: 
-git@github.com:Lielshuker/flysimulatorfinal.git
+server that control flySimulator by read text and send to the sever commands that tell the flySimulator what to do
 ## Installation
 to start the simulator ypu need to install flightgear simulator from the link: https://www.flightgear.org/
 or do the following command at the terminal:
@@ -33,6 +32,4 @@ each command have the responsibility to do something with the simulator:
     responsible for if condition.
   * ### print:
     responsible for print the string / varible in after the print.
-## Credits
-* adi ungar
-* liel shuker
+
